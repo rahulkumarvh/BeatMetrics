@@ -11,7 +11,7 @@ Our application also offers seamless login options, intuitive exploration, and i
 Check the following documents for detailed implementation of the project.
 
 ### Project Details
-[Project Details_Doc](./doc/Stage_1_Project_Proposal_BeatMetrics.md)
+[Project Details_Doc](./doc/Stage1_Project_Details.md)
 
 ### Database Design 
 [DB_Design_Doc](./doc/Stage_2_DB_Design.md)
